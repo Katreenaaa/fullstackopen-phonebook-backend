@@ -2,8 +2,8 @@
 
 Application URL:
 
-https://your-app-name.onrender.com
+https://fullstackopen-phonebook-backend-invs.onrender.com
 
 API endpoint:
 
-https://your-app-name.onrender.com/api/persons
+https://fullstackopen-phonebook-backend-invs.onrender.com/api/persons
